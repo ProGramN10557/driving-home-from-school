@@ -1,0 +1,28 @@
+Scenario : Drive home
+Description : A student is driving home from school.
+
+Object : Student
+State: name, home address, school address
+
+Object : Car
+
+Class student {
+String name
+String home address
+String school address
+void GoToParkingLot(P)
+Void OpenGoogleDrive()
+void enterHomeLocation(HomeAddress)
+}
+Class car {
+void startCar(car)
+void CheckFuel
+void driveCar
+
+vishaal. GoToParkingLot(P)
+Car = vishaal.startCar(c1)
+gps = vishaal.OpenGoogleDrive()
+vishaal.enterHomeLocation(HomeAddress)
+vishaal.driveCar(c1)
+
+
